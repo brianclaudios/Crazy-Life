@@ -1,0 +1,30 @@
+{
+  "id": "com.brianclaus.crazyenginedemo",
+  "title": "Crazy Life! Aventuras Checkotasticas! DEMO!!!",
+  "description": "El mod oficial de Crazy Life!",
+  "github": {
+    "user": "brianclaudios",
+    "repo": "Crazy-Life"
+  },
+"executable": {
+  "windows": "CrazyLife.exe",
+  "mac": "sexo"
+},
+"theme": {
+  "version": 1,
+  "coverUrl": "https://raw.githubusercontent.com/brianclaudios/Crazy-Life/refs/heads/main/Cover_CL.png",
+  "backgroundLibrary": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/brianclaudios/Crazy-Life/refs/heads/main/BG_Launcher.png",
+    "color": ""
+  },
+  "backgroundDetails": {
+    "type": "color",
+    "url": "",
+    "color": "B50B1E"
+  },
+  "titleColor": "EDE6E6",
+  "iconTheme": "dark",
+  "musicUrl": ""
+}
+}
