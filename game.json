@@ -11,7 +11,7 @@
   "mac": "sexo"
 },
 "theme": {
-  "version": 1,
+  "version": 2,
   "coverUrl": "https://raw.githubusercontent.com/brianclaudios/Crazy-Life/refs/heads/main/Cover_CL.png",
   "backgroundLibrary": {
     "type": "image",
@@ -21,10 +21,11 @@
   "backgroundDetails": {
     "type": "color",
     "url": "",
-    "color": "B50B1E"
+    "color": "F2858F"
   },
   "titleColor": "EDE6E6",
   "iconTheme": "dark",
   "musicUrl": ""
 }
+
 }
