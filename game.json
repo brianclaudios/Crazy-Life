@@ -11,7 +11,7 @@
   "mac": "sexo"
 },
 "theme": {
-  "version": 3,
+  "version": 4,
   "coverUrl": "https://raw.githubusercontent.com/brianclaudios/Crazy-Life/refs/heads/main/Cover_CL.png",
   "backgroundLibrary": {
     "type": "image",
@@ -25,10 +25,11 @@
   },
   "titleColor": "EDE6E6",
   "iconTheme": "dark",
-  "musicUrl": "https://github.com/brianclaudios/Crazy-Life/raw/refs/heads/main/Lofi%20CL%20mix.ogg"
+  "musicUrl": "https://github.com/brianclaudios/Crazy-Life/raw/refs/heads/main/LofiClMaster.ogg"
 }
 
 }
+
 
 
 
