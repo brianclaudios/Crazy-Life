@@ -11,7 +11,7 @@
   "mac": "sexo"
 },
 "theme": {
-  "version": 2,
+  "version": 3,
   "coverUrl": "https://raw.githubusercontent.com/brianclaudios/Crazy-Life/refs/heads/main/Cover_CL.png",
   "backgroundLibrary": {
     "type": "image",
@@ -29,4 +29,5 @@
 }
 
 }
+
 
