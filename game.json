@@ -11,8 +11,9 @@
   "mac": "sexo"
 },
 "theme": {
-  "version": 6,
+  "version": 7,
   "coverUrl": "https://raw.githubusercontent.com/brianclaudios/Crazy-Life/refs/heads/main/Cover_CL.png",
+  "paletteUrl": "https://github.com/brianclaudios/Crazy-Life/raw/refs/heads/main/CrazyPaleta.json",
   "backgroundLibrary": {
     "type": "image",
     "url": "https://raw.githubusercontent.com/brianclaudios/Crazy-Life/refs/heads/main/BG_Launcher.png",
@@ -23,12 +24,11 @@
     "url": "https://raw.githubusercontent.com/brianclaudios/Crazy-Life/refs/heads/main/BG_Launcher.png",
     "color": ""
   },
-  "titleColor": "",
-  "iconTheme": "",
   "musicUrl": "https://github.com/brianclaudios/Crazy-Life/raw/refs/heads/main/LofiClMaster.ogg"
-}
+  }
 
 }
+
 
 
 
